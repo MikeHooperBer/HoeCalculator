@@ -65,7 +65,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     public class Rechner {
 
         /**
-         *
+         * 
          * @param a
          *            - Zahl1
          * @param b
@@ -76,7 +76,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
          */
         public  double rechne(double a, double b, char op) {
             // switch case verwenden
-            double result = Double.NaN;/// Double.isNaN(v) balbal
+            double result = Double.NaN;/// Double.isNaN(v) balbal heiurw
 
             switch (op) {
                 case '+':
